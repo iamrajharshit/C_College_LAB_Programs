@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666844303 source:/home/student/Desktop/4nm21ai029/C++files/cprog/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
